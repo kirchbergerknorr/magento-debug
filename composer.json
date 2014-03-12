@@ -1,5 +1,5 @@
 {
-    "name": "razbakov/magento-debug",
+    "name": "kirchbergerknorr/magento-debug",
     "description": "Magento Debug Toolbar",
     "type": "magento-module",
     "license":"OSL-3.0",
